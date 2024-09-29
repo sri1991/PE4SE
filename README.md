@@ -8,37 +8,37 @@ This course covers the fundamentals of prompt engineering, practical application
 
 ## Modules
 
-### Module 1: Introduction to Prompting
+### [Module 1: Introduction to Prompting](./module1)
 - 1.1. What is Prompting?
 - 1.2. Benefits of Effective Prompting
 - 1.3. Overview of AI Tools for Software Engineers
 
-### Module 2: Fundamentals of Prompting
+### [Module 2: Fundamentals of Prompting](./module2)
 - 2.1. Understanding Prompt Structure
 - 2.2. Key Elements: Specificity, Clarity, and Context
 - 2.3. Common Prompting Mistakes
 
-### Module 3: Prompting for Code Generation
+### [Module 3: Prompting for Code Generation](./module3)
 - 3.1. Generating Boilerplate Code
 - 3.2. Crafting Prompts for Specific Languages
 - 3.3. Advanced Techniques: Code Refactoring and Optimization
 
-### Module 4: Prompting for Code Review and Debugging
+### [Module 4: Prompting for Code Review and Debugging](./module4)
 - 4.1. AI-Assisted Code Review
 - 4.2. Debugging with AI-Generated Prompts
 - 4.3. Integrating AI Tools into Dev Workflow
 
-### Module 5: Prompting for Documentation and Knowledge Management
+### [Module 5: Prompting for Documentation and Knowledge Management](./module5)
 - 5.1. Auto-Generating Documentation
 - 5.2. Creating Knowledge Bases with AI
 - 5.3. Best Practices for AI-Driven Documentation
 
-### Module 6: Advanced Prompting Techniques
+### [Module 6: Advanced Prompting Techniques](./module6)
 - 6.1. Using Natural Language Processing (NLP)
 - 6.2. Leveraging Machine Learning Models
 - 6.3. Creating Custom Prompts for Specific Use Cases
 
-### Module 7: Real-World Applications and Case Studies
+### [Module 7: Real-World Applications and Case Studies](./module7)
 - 7.1. Success Stories: Companies Using AI Prompting
 - 7.2. Real-World Examples: Prompting in Action
 - 7.3. Overcoming Common Challenges
