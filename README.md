@@ -72,6 +72,6 @@ We're excited to have you on this journey to mastering prompt engineering for so
 
 ## Support
 
-If you have any questions or need assistance, please don't hesitate to reach out to our support team at [support@promptengineeringcourse.com](mailto:bharanisrinivas91@gmail.com).
+If you have any questions or need assistance, please don't hesitate to reach out to our support team at [Bharani Srinivas](mailto:bharanisrinivas91@gmail.com).
 
 Happy learning and happy prompting!
