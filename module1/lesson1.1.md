@@ -17,3 +17,13 @@ By effectively using these elements, you can instruct the model more precisely a
 ### Simple Prompt Example
 
 Let's start with a basic example of a simple prompt:
+
+
+Prompt: "Write a Python function to calculate the area of a rectangle, given its length and width. Include input validation and error handling. Provide an example usage."
+
+Breakdown:
+
+1. Instruction: "Write a Python function"
+2. Context: "to calculate the area of a rectangle"
+3. Input Data: "given its length and width"
+4. Desired Output: "Include input validation and error handling. Provide an example usage."
