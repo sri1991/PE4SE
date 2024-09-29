@@ -20,6 +20,7 @@ Let's start with a basic example of a simple prompt:
 
 "Write a Python function to calculate rectangle area. Assume length and width are integers."
 
+"""
 def calculate_rectangle_area(length, width):
     """
     Calculate the area of a rectangle.
@@ -32,7 +33,7 @@ def calculate_rectangle_area(length, width):
     int: The area of the rectangle.
     """
     return length * width
-
+"""
 
 Prompt: "Write a Python function to calculate the area of a rectangle, given its length and width. Include input validation and error handling. Provide an example usage."
 Breakdown:
