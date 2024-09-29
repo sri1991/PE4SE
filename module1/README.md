@@ -42,8 +42,6 @@ This lesson covers:
 
 ## Additional Resources
 
-- [Article: The Rise of AI-Assisted Coding](https://example.com/ai-assisted-coding)
-- [Video: Introduction to Large Language Models for Developers](https://example.com/llm-intro)
 - [Tool Documentation: Getting Started with GitHub Copilot](https://docs.github.com/en/copilot)
 
 Ready to dive in? Let's start with [Lesson 1.1: What is Prompting?](./lesson1.1.md)
