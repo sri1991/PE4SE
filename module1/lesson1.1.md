@@ -20,12 +20,12 @@ Let's start with a basic example of a simple prompt:
 
 "Write a Python function to calculate rectangle area. Assume length and width are integers."
 
-![Example output from GitHub Copilot for a simple rectangle area function](../assets/code1.png)
+![Example output from GitHub Copilot for a simple rectangle area function](../assets/code1.PNG)
 
 Prompt: "Write a Python function to calculate the area of a rectangle, given its length and width. Include input validation and error handling. Provide an example usage."
 Breakdown:
 
-![Example output from GitHub Copilot for a more complex rectangle area function](../assets/code2.png)
+![Example output from GitHub Copilot for a more complex rectangle area function](../assets/code2.PNG)
 
 1. Instruction: "Write a Python function"
 2. Context: "to calculate the area of a rectangle"
