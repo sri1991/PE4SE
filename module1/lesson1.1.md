@@ -25,6 +25,8 @@ Let's start with a basic example of a simple prompt:
 Prompt: "Write a Python function to calculate the area of a rectangle, given its length and width. Include input validation and error handling. Provide an example usage."
 Breakdown:
 
+![Example output from github copilot](../assets/code2.png)
+
 1. Instruction: "Write a Python function"
 2. Context: "to calculate the area of a rectangle"
 3. Input Data: "given its length and width"
