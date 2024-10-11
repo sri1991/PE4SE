@@ -43,3 +43,9 @@ Through effective prompting, you can more efficiently explore the capabilities o
 ## Real-World Example
 
 Let's look at a real-world example of how effective prompting can benefit a software engineer:
+
+## Conclusion
+
+Mastering the art of effective prompting is a valuable skill that can significantly enhance your ability to work with AI tools. As we progress through this course, you'll learn various techniques to craft prompts that yield the best possible results for your software engineering tasks.
+
+Next up: [Lesson 1.3: Overview of AI Tools for Software Engineers](./lesson1.3.md)

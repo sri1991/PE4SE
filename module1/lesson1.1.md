@@ -22,6 +22,8 @@ Let's start with a basic example of a simple prompt:
 
 ![Example output from GitHub Copilot for a simple rectangle area function](../assets/code1.PNG)
 
+"Write a function that tells me if a number is prime"
+
 Prompt: "Write a Python function to calculate the area of a rectangle, given its length and width. Include input validation and error handling. Provide an example usage."
 Breakdown:
 
